@@ -1,2 +1,2 @@
 # pyhonScripts
-Python Scrpits Are pished to these repo
+Python Scrpits Are pushed to these repo
